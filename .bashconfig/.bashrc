@@ -123,3 +123,7 @@ export EDITOR="$VISUAL"
 export PS1='\[\033[01;37m\]You @ \w >> '
 
 PATH=~/.console-ninja/.bin:$PATH
+
+DISPLAY=Host_IP_Address:0.0 
+
+export DISPLAY
